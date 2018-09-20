@@ -72,3 +72,17 @@ header {
   .section {
     margin-top: 100px;
   }
+
+  .container-box {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .container-box-content img {
+    width: 400px;
+   }
+
+   .container-box-content h3 {
+     color: blue;
+   }
